@@ -9,8 +9,8 @@ public class DeckTester {
 	 *	@param args is not used.
 	 */
 	public static void main(String[] args) {
-		test1CardDeck();
-		test2CardDeck();
+    test2CardDeck();
+    test1CardDeck();
 		testShuffle();
 		System.out.println("All tests passed!");
 	}
